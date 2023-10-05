@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "418660952228",
+    "project_id": "mobile-store-1f5c0",
+    "storage_bucket": "mobile-store-1f5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418660952228:android:0ea3d6a02e2c4651cb9e31",
+        "android_client_info": {
+          "package_name": "com.example.elkhwaga_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418660952228-ndtk0vd1lprs8vpaocskcf75aejg1hjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGj5x9jMPK-GOn3dfGokLmvyA4z2wfDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418660952228-ndtk0vd1lprs8vpaocskcf75aejg1hjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418660952228-o00vsd4t7voho3pf8ki7u884sequrqeo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elkhwagaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418660952228:android:05d185ded5e4e831cb9e31",
+        "android_client_info": {
+          "package_name": "com.example.elkhwaga_stor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418660952228-ndtk0vd1lprs8vpaocskcf75aejg1hjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGj5x9jMPK-GOn3dfGokLmvyA4z2wfDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418660952228-ndtk0vd1lprs8vpaocskcf75aejg1hjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418660952228-o00vsd4t7voho3pf8ki7u884sequrqeo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elkhwagaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
